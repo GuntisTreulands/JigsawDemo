@@ -1,13 +1,15 @@
 JigsawDemo
 ==========
 
+![PreviewImage](https://github.com/GuntisTreulands/JigsawDemo/blob/master/example.gif?raw=true)
+
 Simple Jigsaw example [CAShapeLayer]
 
 ————
 
 This was just a “weekend project” (two weekends actually) over a year ago (early 2013).
 
-Someone on StackOverflow (cannot find that question now :( ) asked how to create puzzle peaces from input image. At the beginning I thought I suggested him to create masked puzzle peace images (each peace would mask all the image but the peace,  but this clearly is not the right way. So I started to tinker around to create a little demo. 
+Someone on StackOverflow (cannot find that question now :( ) asked how to create puzzle peaces from input image. At the beginning I suggested him to create masked puzzle peace images (each peace would mask all the image but the peace,  but this clearly is not the right way. So I started to tinker around to create a little demo. 
 
 This example contains:
  - provide column/row count and it will generate necessary puzzle peaces with right width

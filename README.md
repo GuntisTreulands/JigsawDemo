@@ -1,7 +1,7 @@
 JigsawDemo
 ==========
 
-![PreviewImage](https://github.com/GuntisTreulands/JigsawDemo/blob/master/example2.gif?raw=true)
+![PreviewImage](https://github.com/GuntisTreulands/JigsawDemo/blob/master/example.gif?raw=true)
 
 Simple Jigsaw example using CAShapeLayer.
 

@@ -9,7 +9,7 @@ Simple Jigsaw example using CAShapeLayer.
 
 This was just a “weekend project” (two weekends actually) over a year ago (early 2013).
 
-Someone on StackOverflow (cannot find that question now :( ) asked how to create puzzle pieces from input image. At the beginning I suggested him to create masked puzzle piece images (each piece would mask all the image but the piece,  but this clearly is not the right way. So I started to tinker around to create a little demo. 
+Someone on StackOverflow (http://stackoverflow.com/questions/10810798/cropping-image-with-transparency-in-iphone ) asked how to create puzzle pieces from input image. At the beginning I suggested him to create masked puzzle piece images (each piece would mask all the image but the piece,  but this clearly is not the right way. So I started to tinker around to create a little demo. 
 
 This example contains:
  - provide column/row count and it will generate necessary puzzle pieces with correct width/height. The more columns/rows - the smaller the width/height and outline/inline puzzle form.
